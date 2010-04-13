@@ -3,6 +3,7 @@ require 'rails/test_help'
 
 make me barf!!
 
+oh yeah
 
 ActiveRecord::Migration.verbose = false
 ActiveRecord::Base.logger = Logger.new(nil)
